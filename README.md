@@ -68,4 +68,4 @@ and gracefully manages errors — all within a beautiful, responsive, glassmorph
 ## 📦 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elfajome/Weather-App.git
+   https://github.com/elfajome/Weather-App.git
