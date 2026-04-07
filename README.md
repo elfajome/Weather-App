@@ -61,10 +61,10 @@ and gracefully manages errors — all within a beautiful, responsive, glassmorph
 ---
 
 ## 📸 Screenshots
-<img width="300" height="300" alt="Screenshot 2026-04-07 084013" src="https://github.com/user-attachments/assets/396e8975-9308-4125-9cb9-cb5fec5ca7d1" />
+<img width="280" height="280" alt="Screenshot 2026-04-07 084013" src="https://github.com/user-attachments/assets/396e8975-9308-4125-9cb9-cb5fec5ca7d1" />
  
-<img width="300" height="300" alt="Screenshot 2026-04-07 083405" src="https://github.com/user-attachments/assets/33e5cee6-8b08-4b05-b1a5-2c4c032f3220" /> 
-<img width="300" height="300" alt="Screenshot 2026-04-07 083429" src="https://github.com/user-attachments/assets/b8ac4ef0-5afc-42a7-a7d0-897df3e99242" />
+<img width="280" height="280" alt="Screenshot 2026-04-07 083405" src="https://github.com/user-attachments/assets/33e5cee6-8b08-4b05-b1a5-2c4c032f3220" /> 
+<img width="280" height="280" alt="Screenshot 2026-04-07 083429" src="https://github.com/user-attachments/assets/b8ac4ef0-5afc-42a7-a7d0-897df3e99242" />
 
 
 
